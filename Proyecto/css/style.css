@@ -101,7 +101,9 @@ header {
 
 /* Hero Sobre mi */
 .heroSobreMi {
-    background-color: #6E08F3;
+    /* background-color: #6E08F3; */
+    background: rgb(248,156,249);
+background: linear-gradient(90deg, rgba(248,156,249,1) 0%, rgba(243,8,194,1) 21%, rgba(110,8,243,1) 100%);
     color: #fff;
     height: 17em;
     height: 18em;
