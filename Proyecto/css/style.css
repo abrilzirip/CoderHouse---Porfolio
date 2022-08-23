@@ -140,6 +140,11 @@ main section h2 {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.grid-item:hover {
+    filter: opacity(0.9);
+  transform: scale(1.04);
+}
   
 .grid-container {
     display: grid;
